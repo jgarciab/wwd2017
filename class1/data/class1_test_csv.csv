@@ -1,0 +1,18 @@
+## sometimes csvs have comments explaining what everything is
+## treatment for example could mean two methods of teaching, 1 being a new one and 2 being the old one
+## score how well they perform in some kind of exam
+## also the missing (NaN) values are coded with -9
+
+person	year	treatment	score
+1	2000	1	4
+2	2000	1	3
+3	2000	2	6
+4	2000	2	4
+1	2005	1	8
+2	2005	1	7
+3	2005	2	5
+4	2005	2	5
+1	2010	1	9
+2	2010	1	7
+3	2010	2	6
+3	2010	2	-9
