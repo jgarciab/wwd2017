@@ -1,6 +1,0 @@
-git config --global user.name "J"
-
-#Needed before every class/homework (Keep a local copy!)
-git stash
-git pull origin master
-git stash pop
