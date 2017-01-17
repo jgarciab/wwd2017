@@ -1,0 +1,2 @@
+rm -r class3
+svn checkout https://github.com/jgarciab/wwd2017/trunk/class3
