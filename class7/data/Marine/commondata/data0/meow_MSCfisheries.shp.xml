@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<descript>
+			<abstract>Number of fisheries certified as “sustainable and well-managed” by the Marine Stewardship Council (MSC), by marine ecoregion.
+ 
+ We obtained information on marine fisheries certified as sustainable and well managed by the Marine Stewardship Council (MSC, www.msc.org) from the MSC Web site’s certified fisheries profiles. Individual fishery profiles described geographic fishing areas where each fishery operates. These areas tend to correspond to national fishing area designations. Using these designations and mapped information on the MSC Web site, we assigned certified fisheries manually and approximated as much as possible to marine ecoregional boundaries.
+ 
+ These data were derived by The Nature Conservancy, and were displayed in a map published in The Atlas of Global Conservation (Hoekstra et al., University of California Press, 2010). More information at http://nature.org/atlas.</abstract>
+			<purpose>This classification represents a new work, derived by a team representing various conservation NGOs and acadamics. It is partly derived from existing classifications. The layer provides a geographic framework for a broad range of analyses relating to biodiversity (including measures of condition, threat, and conservation progress) in the marine environment.</purpose>
+			<supplinf>USERS PLEASE NOTE - shapefile does NOT accurately represent outer MEOW boundaries: 
+ As specified in the original publications, the boundaries in this shapefile have been extended out some 200 nautical miles from land (and this buffer is extended to include any additional marine areas less than 200metres in depth which lie beyond this distance). This outer boundary buffer is primarily drawn here to ease visibility of ecoregions in global and regional scale maps. Similarly the inland boundaries of the ecoregions extend far inland - a convention to ensure inclusion of any coastline and estuarine/lagoonal systems which may be derived from different map sources. As specified, the ecoregional classification relates primarily to coast and shelf biotas for which a 200m depth contour is a more accurate indicative boundary. It is therefore not an appropriate use of the data to calculate total ecoregion areas or generate other area or volumetric dependent statistics using these boundaries alone. A version of the shapefile cut to shelf areas will be released on this site by December 2007.
+ 
+ Download this data at:
+ http://conserveonline.org/workspaces/ecoregional.shapefile/</supplinf>
+		</descript>
+		<useconst>(http://creativecommons.org/licenses/by-nc/3.0)This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 License (http://creativecommons.org/licenses/by-nc/3.0).</useconst>
+		<datacred>Certified Marine Fisheries by ecoregion: The Nature Conservancy
+ 
+ Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007) Marine Ecoregions of the World: a bioregionalization of coast and shelf areas. BioScience 57: 573-583.</datacred>
+		<citation>
+			<citeinfo>
+				<title>Number of Marine Stewardship Council Certified Fisheries by Marine Ecoregion</title>
+				<pubdate/>
+				<othercit>Hoekstra, J. M., J. L. Molnar, M. Jennings, C. Revenga, M. D. Spalding, T. M. Boucher, J. C. Robertson, T. J. Heibel, with K. Ellison. 2010. The Atlas of Global Conservation: Changes, Challenges, and Opportunities to Make a Difference. Ed. J. L. Molnar. Berkeley: University of California Press.</othercit>
+				<origin>The Nature Conservancy (http://nature.org)</origin>
+				<onlink>http://app.databasin.org/app/pages/datasetPage.jsp?id=9a42259b9db0410cbd7cc3124f1c2d64</onlink>
+				<pubinfo>
+					<publish/>
+					<pubplace/>
+				</pubinfo>
+			</citeinfo>
+		</citation>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Timothy Boucher (tboucher@tnc.org)</cntper>
+					<cntorg>The Nature Conservancy (http://nature.org)</cntorg>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+		<status>
+			<progress/>
+			<update/>
+		</status>
+		<timeperd>
+			<timeinfo>
+				<sngdate/>
+				<current/>
+			</timeinfo>
+		</timeperd>
+		<keywords>
+			<theme>
+				<themekey>Marine</themekey>
+				<themekey>Biogeography</themekey>
+				<themekey>Ecoregion</themekey>
+				<themekey>Realm</themekey>
+				<themekey>The Nature Conservancy</themekey>
+				<themekey>certified fisheries</themekey>
+				<themekey>marine stewardship council</themekey>
+				<themekt>Data Basin tags</themekt>
+			</theme>
+		</keywords>
+		<spdom>
+			<bounding>
+				<northbc>87.81211601444309</northbc>
+				<eastbc>179.99999999998656</eastbc>
+				<southbc>-86.78249642712764</southbc>
+				<westbc>-179.99999999998656</westbc>
+			</bounding>
+		</spdom>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr/>
+		</attracc>
+		<complete>Global</complete>
+		<lineage>
+			<procstep>
+				<procdesc>Consolidated Data Basin Info: null
+ null
+ Metadata imported. (C:\WorkSpace\Metadata\mspalding\MEOWv2_26apr07.shp.xml)
+ Dataset copied. (C:\WorkSpace\Marine_workspace\MEOW\EcoRegions_workspace\MEOWv2_workspace\MEOWv2_final_June2007)
+ Dataset moved. (C:\WorkSpace\Marine_workspace\MEOW\EcoRegions_workspace\MEOWv2_workspace\MEOWv2_June2007)
+ Dataset moved. (C:\WorkSpace\Marine_workspace\MEOW\EcoRegions_workspace\MEOWv2_workspace\New Folder\MEOWv2_June2007)
+ Metadata imported. (D:\atlas_online\meow_metadata.xml)</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<eainfo>
+		<detailed>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attalias>FID</attalias>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attalias>Shape</attalias>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>ECO_CODE</attrlabl>
+				<attalias>ECO_CODE</attalias>
+				<attrdef>Unique ecoregion identifier</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>ECOREGION</attrlabl>
+				<attalias>ECOREGION</attalias>
+				<attrdef>Ecoregion name</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>PROV_CODE</attrlabl>
+				<attalias>PROV_CODE</attalias>
+				<attrdef>Unique province identifier</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>PROVINCE</attrlabl>
+				<attalias>PROVINCE</attalias>
+				<attrdef>Province name</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>RLM_CODE</attrlabl>
+				<attalias>RLM_CODE</attalias>
+				<attrdef>Unique realm identifier</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>REALM</attrlabl>
+				<attalias>REALM</attalias>
+				<attrdef>Realm name</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>certfish_m</attrlabl>
+				<attalias>certfish_m</attalias>
+				<attrdef>number of Marine Stewardship Council certified fisheries</attrdef>
+				<attrdomv/>
+			</attr>
+			<attr>
+				<attrlabl>cert_fish</attrlabl>
+				<attalias>Cert_Fish</attalias>
+				<attrdef>number of Marine Stewardship Council certified fisheries for map labels</attrdef>
+				<attrdomv/>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Data Basin</cntorg>
+					<cntper>Data Basin Administrator</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>136 SW Washington Ave, Suite 202</address>
+					<city>Corvallis</city>
+					<state>OR</state>
+					<postal>97333</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>541-757-0687</cntvoice>
+				<cntemail>databasin_admin@consbio.org</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Number of Marine Stewardship Council Certified Fisheries by Marine Ecoregion</resdesc>
+		<distliab>No warranty is made by Data Basin for use of this dataset.  No warranty is made by Data Basin regarding the accuracy, reliability, or completeness of this dataset. In no event shall Data Basin have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of the use or reliance on the geographic or attribute data contained within this dataset or arising out of the delivery, installation, operation, or support by Data Basin.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Feature Layer</formname>
+					<formvern>ArcGIS  10</formvern>
+					<formspec>Feature Layer</formspec>
+					<filedec>No compression applied</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://app.databasin.org/app/pages/datasetPage.jsp?id=9a42259b9db0410cbd7cc3124f1c2d64</networkr>
+							</networka>
+						</computer>
+						<accinstr>Download from http://databasin.org</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Download from http://databasin.org</ordering>
+		</stdorder>
+		<techpreq>ESRI ArcGIS Desktop and supporting operating systems.</techpreq>
+	</distinfo>
+	<Esri><CreaDate>20120109</CreaDate><CreaTime>16262300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\IP-0A553361\D\arcgisserver\services\im2\9a42259b9db0410cbd7cc3124f1c2d64\9a42259b9db0410cbd7cc3124f1c2d64\commondata\data0\meow_MSCfisheries</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\arcgisserver\services\im2\9a42259b9db0410cbd7cc3124f1c2d64\commondata\data0\meow_MSCfisheries" dest="\\IP-0A553361\D\arcgisserver\services\im2\9a42259b9db0410cbd7cc3124f1c2d64\9a42259b9db0410cbd7cc3124f1c2d64\commondata\data0\meow_MSCfisheries" date="20120109" time="16262300"></copy></copyHistory></DataProperties></Esri></metadata>

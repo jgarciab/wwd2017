@@ -5793,3 +5793,28 @@ JavaScript warning: http://www.lexisnexis.com/lnacui2api/js/common.js?v=14752684
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
 
+1485434559992	addons.manager	INFO	Skipping background update check
+1485434800021	DeferredSave.extensions.json	DEBUG	Save changes
+1485434800022	DeferredSave.extensions.json	DEBUG	Starting timer
+1485434800045	DeferredSave.extensions.json	DEBUG	Starting write
+1485434800048	DeferredSave.extensions.json	DEBUG	Write succeeded
+1485520960237	addons.manager	INFO	Skipping background update check
+1485521200256	DeferredSave.extensions.json	DEBUG	Save changes
+1485521200260	DeferredSave.extensions.json	DEBUG	Starting timer
+1485521200282	DeferredSave.extensions.json	DEBUG	Starting write
+1485521200287	DeferredSave.extensions.json	DEBUG	Write succeeded
+1485523960418	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1485523960418	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.0
+1485523960419	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 1.0
+1485523960419	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.5
+1485523960541	addons.manager	DEBUG	shutdown
+1485523960542	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1485523960542	addons.xpi	DEBUG	shutdown
+1485523960542	addons.xpi-utils	DEBUG	shutdown
+1485523960543	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1485523960543	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1485523960545	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1485523960545	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1485523960547	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1485523960550	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1485523960554	addons.manager	DEBUG	Async provider shutdown done

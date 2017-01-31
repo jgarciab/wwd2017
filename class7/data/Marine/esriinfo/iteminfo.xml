@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>9a42259b9db0410cbd7cc3124f1c2d64</name>
+<guid>F16113D7-F092-4A27-9626-86CFE8F080A4</guid>
+<catalogpath></catalogpath>
+<snippet></snippet>
+<description>Number of fisheries certified as &amp;ldquo;sustainable and well-managed&amp;rdquo; by the Marine Stewardship Council (MSC), by marine ecoregion.
+
+
+
+
+
+
+
+
+
+We obtained information on marine fisheries certified as sustainable and well managed by the Marine Stewardship Council (MSC, www.msc.org) from the MSC Web site&amp;rsquo;s certified fisheries profiles. Individual fishery profiles described geographic fishing areas where each fishery operates. These areas tend to correspond to national fishing area designations. Using these designations and mapped information on the MSC Web site, we assigned certified fisheries manually and approximated as much as possible to marine ecoregional boundaries.
+
+
+
+
+
+
+
+
+
+These data were derived by The Nature Conservancy, and were displayed in a map published in The Atlas of Global Conservation (Hoekstra et al., University of California Press, 2010).  More information at http://nature.org/atlas.
+
+This dataset was uploaded to Data Basin and is available with additional information at: http://app.databasin.org/app/pages/datasetPage.jsp?id=9a42259b9db0410cbd7cc3124f1c2d64</description>
+<summary></summary>
+<title>Number of Marine Stewardship Council Certified Fisheries by Marine Ecoregion</title>
+<tags></tags>
+<type>Layer Package</type>
+<typekeywords>
+<typekeyword>Shapefile Feature Class</typekeyword>
+<typekeyword>Layer Package</typekeyword>
+<typekeyword>Data</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>.lpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-179.999988540844</xmin>
+<ymin>-85.4702909090909</ymin>
+<xmax>179.999988540844</xmax>
+<ymax>86.9193962890001</ymax>
+</extent>
+<spatialreference>GCS_WGS_1984</spatialreference>
+<accessinformation></accessinformation>
+</ESRI_ItemInformation>
